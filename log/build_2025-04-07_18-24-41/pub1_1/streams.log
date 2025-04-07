@@ -1,0 +1,63 @@
+[0.019s] Invoking command in '/home/linux/ros2_ws/build/pub1_1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/linux/ros2_ws/src/pub1_1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/linux/ros2_ws/install/pub1_1
+[0.295s] -- The C compiler identification is GNU 9.4.0
+[0.673s] -- The CXX compiler identification is GNU 9.4.0
+[0.856s] -- Check for working C compiler: /usr/bin/cc
+[1.086s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.087s] -- Detecting C compiler ABI info
+[1.301s] -- Detecting C compiler ABI info - done
+[1.314s] -- Detecting C compile features
+[1.314s] -- Detecting C compile features - done
+[1.316s] -- Check for working CXX compiler: /usr/bin/c++
+[1.558s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[1.559s] -- Detecting CXX compiler ABI info
+[1.798s] -- Detecting CXX compiler ABI info - done
+[1.811s] -- Detecting CXX compile features
+[1.811s] -- Detecting CXX compile features - done
+[1.814s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[1.843s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[1.843s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.033s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.058s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[2.299s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[2.305s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[3.916s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[5.528s] -- Found FastRTPS: /opt/ros/foxy/include  
+[8.373s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[8.435s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[8.437s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[8.439s] -- Looking for pthread.h
+[8.664s] -- Looking for pthread.h - found
+[8.664s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[8.893s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[8.893s] -- Looking for pthread_create in pthreads
+[9.108s] -- Looking for pthread_create in pthreads - not found
+[9.108s] -- Looking for pthread_create in pthread
+[9.329s] -- Looking for pthread_create in pthread - found
+[9.330s] -- Found Threads: TRUE  
+[9.504s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[9.595s] -- Added test 'copyright' to check source files copyright and LICENSE
+[9.597s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[9.597s] -- Configured cppcheck include dirs: 
+[9.597s] -- Configured cppcheck exclude dirs and/or files: 
+[9.598s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[9.598s] -- Configured cpplint exclude dirs and/or files: 
+[9.599s] -- Added test 'lint_cmake' to check CMake code style
+[9.601s] -- Added test 'uncrustify' to check C / C++ code style
+[9.601s] -- Configured uncrustify additional arguments: 
+[9.602s] -- Added test 'xmllint' to check XML markup files
+[9.606s] -- Configuring done
+[9.607s] CMake Error at CMakeLists.txt:35 (add_executable):
+[9.607s]   Cannot find source file:
+[9.607s] 
+[9.607s]     src/pub1.cpp
+[9.608s] 
+[9.608s]   Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+[9.608s]   .hpp .hxx .in .txx
+[9.608s] 
+[9.608s] 
+[9.608s] CMake Error at CMakeLists.txt:35 (add_executable):
+[9.608s]   No SOURCES given to target: pub1_1
+[9.608s] 
+[9.608s] 
+[9.608s] CMake Generate step failed.  Build files cannot be regenerated correctly.
+[9.617s] Invoked command in '/home/linux/ros2_ws/build/pub1_1' returned '1': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/linux/ros2_ws/src/pub1_1 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/linux/ros2_ws/install/pub1_1
