@@ -1,0 +1,52 @@
+[0.022s] Invoking command in '/home/linux/ros2_ws/build/pub1_3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/linux/ros2_ws/src/pub1_3 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/linux/ros2_ws/install/pub1_3
+[0.041s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[0.067s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[0.316s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.324s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[0.540s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.543s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[6.717s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[6.772s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[6.773s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.929s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[6.975s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[7.045s] -- Added test 'copyright' to check source files copyright and LICENSE
+[7.046s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[7.046s] -- Configured cppcheck include dirs: 
+[7.046s] -- Configured cppcheck exclude dirs and/or files: 
+[7.047s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[7.047s] -- Configured cpplint exclude dirs and/or files: 
+[7.048s] -- Added test 'lint_cmake' to check CMake code style
+[7.049s] -- Added test 'uncrustify' to check C / C++ code style
+[7.050s] -- Configured uncrustify additional arguments: 
+[7.050s] -- Added test 'xmllint' to check XML markup files
+[7.054s] -- Configuring done
+[7.066s] -- Generating done
+[7.070s] -- Build files have been written to: /home/linux/ros2_ws/build/pub1_3
+[7.078s] Invoked command in '/home/linux/ros2_ws/build/pub1_3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/linux/ros2_ws/src/pub1_3 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/linux/ros2_ws/install/pub1_3
+[7.080s] Invoking command in '/home/linux/ros2_ws/build/pub1_3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/linux/ros2_ws/build/pub1_3 -- -j6 -l6
+[7.126s] [35m[1mScanning dependencies of target pub1_3[0m
+[7.166s] [ 50%] [32mBuilding CXX object CMakeFiles/pub1_3.dir/src/pub1_3.cpp.o[0m
+[10.336s] [100%] [32m[1mLinking CXX executable pub1_3[0m
+[10.714s] [100%] Built target pub1_3
+[10.727s] Invoked command in '/home/linux/ros2_ws/build/pub1_3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/linux/ros2_ws/build/pub1_3 -- -j6 -l6
+[10.743s] Invoking command in '/home/linux/ros2_ws/build/pub1_3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/linux/ros2_ws/build/pub1_3
+[10.750s] -- Install configuration: ""
+[10.751s] -- Execute custom install script
+[10.751s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/lib/pub1_3/pub1_3
+[10.763s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/ament_index/resource_index/package_run_dependencies/pub1_3
+[10.775s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/ament_index/resource_index/parent_prefix_path/pub1_3
+[10.785s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/environment/ament_prefix_path.sh
+[10.795s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/environment/ament_prefix_path.dsv
+[10.805s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/environment/path.sh
+[10.815s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/environment/path.dsv
+[10.825s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/local_setup.bash
+[10.835s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/local_setup.sh
+[10.845s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/local_setup.zsh
+[10.856s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/local_setup.dsv
+[10.866s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/package.dsv
+[10.877s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/ament_index/resource_index/packages/pub1_3
+[10.887s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/cmake/pub1_3Config.cmake
+[10.897s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/cmake/pub1_3Config-version.cmake
+[10.907s] -- Symlinking: /home/linux/ros2_ws/install/pub1_3/share/pub1_3/package.xml
+[10.919s] Invoked command in '/home/linux/ros2_ws/build/pub1_3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/linux/ros2_ws/build/pub1_3

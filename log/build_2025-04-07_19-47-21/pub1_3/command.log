@@ -1,0 +1,4 @@
+Invoking command in '/home/linux/ros2_ws/build/pub1_3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/linux/ros2_ws/build/pub1_3 -- -j6 -l6
+Invoked command in '/home/linux/ros2_ws/build/pub1_3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/linux/ros2_ws/build/pub1_3 -- -j6 -l6
+Invoking command in '/home/linux/ros2_ws/build/pub1_3': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/linux/ros2_ws/build/pub1_3
+Invoked command in '/home/linux/ros2_ws/build/pub1_3' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/linux/ros2_ws/build/pub1_3
