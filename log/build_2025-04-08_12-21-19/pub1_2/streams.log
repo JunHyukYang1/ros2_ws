@@ -1,0 +1,78 @@
+[0.022s] Invoking command in '/home/linux/ros2_ws/build/pub1_2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/linux/ros2_ws/src/pub1_2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/linux/ros2_ws/install/pub1_2
+[0.547s] -- The C compiler identification is GNU 9.4.0
+[1.177s] -- The CXX compiler identification is GNU 9.4.0
+[1.458s] -- Check for working C compiler: /usr/bin/cc
+[1.731s] -- Check for working C compiler: /usr/bin/cc -- works
+[1.733s] -- Detecting C compiler ABI info
+[2.007s] -- Detecting C compiler ABI info - done
+[2.020s] -- Detecting C compile features
+[2.020s] -- Detecting C compile features - done
+[2.024s] -- Check for working CXX compiler: /usr/bin/c++
+[2.287s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[2.288s] -- Detecting CXX compiler ABI info
+[2.558s] -- Detecting CXX compiler ABI info - done
+[2.570s] -- Detecting CXX compile features
+[2.570s] -- Detecting CXX compile features - done
+[2.587s] -- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+[2.620s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+[2.620s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[2.814s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[2.865s] -- Found rclcpp: 2.4.3 (/opt/ros/foxy/share/rclcpp/cmake)
+[3.196s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.211s] -- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+[5.077s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+[7.000s] -- Found FastRTPS: /opt/ros/foxy/include  
+[10.389s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[10.481s] -- Found rmw_implementation_cmake: 1.0.4 (/opt/ros/foxy/share/rmw_implementation_cmake/cmake)
+[10.485s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[10.487s] -- Looking for pthread.h
+[10.783s] -- Looking for pthread.h - found
+[10.783s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[11.021s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Failed
+[11.021s] -- Looking for pthread_create in pthreads
+[11.246s] -- Looking for pthread_create in pthreads - not found
+[11.246s] -- Looking for pthread_create in pthread
+[11.486s] -- Looking for pthread_create in pthread - found
+[11.487s] -- Found Threads: TRUE  
+[11.692s] -- Found geometry_msgs: 2.0.5 (/opt/ros/foxy/share/geometry_msgs/cmake)
+[11.738s] -- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+[11.844s] -- Added test 'copyright' to check source files copyright and LICENSE
+[11.846s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[11.846s] -- Configured cppcheck include dirs: 
+[11.846s] -- Configured cppcheck exclude dirs and/or files: 
+[11.847s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[11.847s] -- Configured cpplint exclude dirs and/or files: 
+[11.849s] -- Added test 'lint_cmake' to check CMake code style
+[11.851s] -- Added test 'uncrustify' to check C / C++ code style
+[11.851s] -- Configured uncrustify additional arguments: 
+[11.852s] -- Added test 'xmllint' to check XML markup files
+[11.857s] -- Configuring done
+[11.875s] -- Generating done
+[11.881s] -- Build files have been written to: /home/linux/ros2_ws/build/pub1_2
+[11.891s] Invoked command in '/home/linux/ros2_ws/build/pub1_2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake /home/linux/ros2_ws/src/pub1_2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/linux/ros2_ws/install/pub1_2
+[11.895s] Invoking command in '/home/linux/ros2_ws/build/pub1_2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/linux/ros2_ws/build/pub1_2 -- -j6 -l6
+[11.941s] [35m[1mScanning dependencies of target pub1_2[0m
+[12.036s] [ 50%] [32mBuilding CXX object CMakeFiles/pub1_2.dir/src/pub1_2.cpp.o[0m
+[15.148s] [100%] [32m[1mLinking CXX executable pub1_2[0m
+[15.536s] [100%] Built target pub1_2
+[15.550s] Invoked command in '/home/linux/ros2_ws/build/pub1_2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/linux/ros2_ws/build/pub1_2 -- -j6 -l6
+[15.565s] Invoking command in '/home/linux/ros2_ws/build/pub1_2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/linux/ros2_ws/build/pub1_2
+[15.574s] -- Install configuration: ""
+[15.574s] -- Execute custom install script
+[15.576s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/lib/pub1_2/pub1_2
+[15.589s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/ament_index/resource_index/package_run_dependencies/pub1_2
+[15.600s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/ament_index/resource_index/parent_prefix_path/pub1_2
+[15.612s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/environment/ament_prefix_path.sh
+[15.622s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/environment/ament_prefix_path.dsv
+[15.633s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/environment/path.sh
+[15.643s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/environment/path.dsv
+[15.653s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/local_setup.bash
+[15.664s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/local_setup.sh
+[15.675s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/local_setup.zsh
+[15.685s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/local_setup.dsv
+[15.695s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/package.dsv
+[15.705s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/ament_index/resource_index/packages/pub1_2
+[15.716s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/cmake/pub1_2Config.cmake
+[15.726s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/cmake/pub1_2Config-version.cmake
+[15.737s] -- Symlinking: /home/linux/ros2_ws/install/pub1_2/share/pub1_2/package.xml
+[15.751s] Invoked command in '/home/linux/ros2_ws/build/pub1_2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/linux/ros2_ws/build/pub1_2
