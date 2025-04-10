@@ -1,0 +1,10 @@
+/home/linux/ros2_ws/build/pub2/CMakeFiles/install/strip.dir
+/home/linux/ros2_ws/build/pub2/CMakeFiles/install/local.dir
+/home/linux/ros2_ws/build/pub2/CMakeFiles/install.dir
+/home/linux/ros2_ws/build/pub2/CMakeFiles/list_install_components.dir
+/home/linux/ros2_ws/build/pub2/CMakeFiles/rebuild_cache.dir
+/home/linux/ros2_ws/build/pub2/CMakeFiles/edit_cache.dir
+/home/linux/ros2_ws/build/pub2/CMakeFiles/test.dir
+/home/linux/ros2_ws/build/pub2/CMakeFiles/pub2.dir
+/home/linux/ros2_ws/build/pub2/CMakeFiles/pub2_uninstall.dir
+/home/linux/ros2_ws/build/pub2/CMakeFiles/uninstall.dir
