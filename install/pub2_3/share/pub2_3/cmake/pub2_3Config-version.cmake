@@ -1,0 +1,1 @@
+/home/linux/ros2_ws/build/pub2_3/ament_cmake_core/pub2_3Config-version.cmake

@@ -1,0 +1,22 @@
+[35m[1mScanning dependencies of target pub2_3[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pub2_3.dir/src/pub2_3.cpp.o[0m
+[100%] [32m[1mLinking CXX executable pub2_3[0m
+[100%] Built target pub2_3
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/lib/pub2_3/pub2_3
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/ament_index/resource_index/package_run_dependencies/pub2_3
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/ament_index/resource_index/parent_prefix_path/pub2_3
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/environment/path.sh
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/environment/path.dsv
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/local_setup.bash
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/local_setup.sh
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/local_setup.zsh
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/local_setup.dsv
+-- Symlinking: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/package.dsv
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/ament_index/resource_index/packages/pub2_3
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/cmake/pub2_3Config.cmake
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/cmake/pub2_3Config-version.cmake
+-- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_3/share/pub2_3/package.xml

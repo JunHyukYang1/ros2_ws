@@ -1,0 +1,16 @@
+/home/linux/ros2_ws/install/pub2_3/lib/pub2_3/pub2_3
+/home/linux/ros2_ws/install/pub2_3/share/ament_index/resource_index/package_run_dependencies/pub2_3
+/home/linux/ros2_ws/install/pub2_3/share/ament_index/resource_index/parent_prefix_path/pub2_3
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/environment/ament_prefix_path.sh
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/environment/ament_prefix_path.dsv
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/environment/path.sh
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/environment/path.dsv
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/local_setup.bash
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/local_setup.sh
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/local_setup.zsh
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/local_setup.dsv
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/package.dsv
+/home/linux/ros2_ws/install/pub2_3/share/ament_index/resource_index/packages/pub2_3
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/cmake/pub2_3Config.cmake
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/cmake/pub2_3Config-version.cmake
+/home/linux/ros2_ws/install/pub2_3/share/pub2_3/package.xml
