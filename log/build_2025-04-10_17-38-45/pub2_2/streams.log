@@ -1,0 +1,26 @@
+[0.026s] Invoking command in '/home/linux/ros2_ws/build/pub2_2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/linux/ros2_ws/build/pub2_2 -- -j6 -l6
+[0.093s] [35m[1mScanning dependencies of target pub2_2[0m
+[0.130s] [ 50%] [32mBuilding CXX object CMakeFiles/pub2_2.dir/src/pub2_2.cpp.o[0m
+[4.012s] [100%] [32m[1mLinking CXX executable pub2_2[0m
+[4.531s] [100%] Built target pub2_2
+[4.558s] Invoked command in '/home/linux/ros2_ws/build/pub2_2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --build /home/linux/ros2_ws/build/pub2_2 -- -j6 -l6
+[4.578s] Invoking command in '/home/linux/ros2_ws/build/pub2_2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/linux/ros2_ws/build/pub2_2
+[4.587s] -- Install configuration: ""
+[4.587s] -- Execute custom install script
+[4.587s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/lib/pub2_2/pub2_2
+[4.588s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/ament_index/resource_index/package_run_dependencies/pub2_2
+[4.588s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/ament_index/resource_index/parent_prefix_path/pub2_2
+[4.588s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/environment/ament_prefix_path.sh
+[4.589s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/environment/ament_prefix_path.dsv
+[4.589s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/environment/path.sh
+[4.589s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/environment/path.dsv
+[4.590s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/local_setup.bash
+[4.590s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/local_setup.sh
+[4.591s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/local_setup.zsh
+[4.591s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/local_setup.dsv
+[4.591s] -- Symlinking: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/package.dsv
+[4.605s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/ament_index/resource_index/packages/pub2_2
+[4.605s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/cmake/pub2_2Config.cmake
+[4.605s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/cmake/pub2_2Config-version.cmake
+[4.606s] -- Up-to-date symlink: /home/linux/ros2_ws/install/pub2_2/share/pub2_2/package.xml
+[4.613s] Invoked command in '/home/linux/ros2_ws/build/pub2_2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/foxy /usr/bin/cmake --install /home/linux/ros2_ws/build/pub2_2
