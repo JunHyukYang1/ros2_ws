@@ -4,7 +4,7 @@
   <name>wsl2_line_follower_cpp</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="yangjunh102881@gmail.com">linux</maintainer>
+  <maintainer email="linux@todo.todo">linux</maintainer>
   <license>TODO: License declaration</license>
 
   <buildtool_depend>ament_cmake</buildtool_depend>
