@@ -1,3 +1,10 @@
+
+ 실행 영상 : 
+
+
+
+
+
 # camera
 ros2 test package for CSI camera on Jetson nano
 
