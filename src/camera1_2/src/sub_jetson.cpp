@@ -11,7 +11,7 @@ using std::placeholders::_1;  // std::bind에서 자리 표시자(_1) 사용
 std::string dst = "appsrc ! videoconvert ! video/x-raw, format=BGRx ! \
     nvvidconv ! nvv4l2h264enc insert-sps-pps=true ! \
     h264parse ! rtph264pay pt=96 ! \
-    udpsink host=203.234.58.121 port=8001 sync=false";
+    udpsink host=192.168.0.13 port=8001 sync=false";
 
 // GStreamer를 이용한 UDP 스트리밍용 VideoWriter
 cv::VideoWriter writer;
